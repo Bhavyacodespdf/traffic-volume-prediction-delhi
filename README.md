@@ -15,3 +15,5 @@ machine learning techniques applied to traffic, road network, and weather data.
 - OpenStreetMap
 - OpenWeather API
 - Flask
+
+- Baseline Random Forest model trained with R² ≈ 0.58
